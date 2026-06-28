@@ -1,4 +1,4 @@
-# 
+# 精英 OBS Studio 预设 Mac OS版 | 独家 OBS Studio 预设 PC Windows版。集成 流媒体调度 和 4K导出，跨平台性能最大化。
 
 
 
